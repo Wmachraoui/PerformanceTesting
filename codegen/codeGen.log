@@ -1,0 +1,31 @@
+[22:59:13.77] Info: Running build Release_2021.2.0_2226 on windows
+[22:59:13.83] Info: DevWeb offline generator started with 'har' mode, 'pages' level.
+[22:59:13.83] Info: Generating script from 'C:\Users\wmachrao\OneDrive - Capgemini\Documents\PerfTry\proxyrecorded.har'.
+[22:59:13.83] Info: Using configuration file: C:\ProgramData\Micro Focus\LoadRunner\DevWeb\generator_config.yml.
+[22:59:13.88] Info: HAR file loaded, started parsing phase.
+[22:59:13.88] Info: Configured none resources list: [text/html text/xml text/plain application/json]
+[22:59:13.89] Info: Parsing done, loaded 14 steps from HAR.
+[22:59:13.89] Info: Configured headers to filter: [Host Content-Length Cookie]
+[22:59:13.89] Info: Configured hosts exclude list: [.*google.* .*bing.* .*geolocation.* .*gstatic.* .*firefox.*]
+[22:59:13.89] Info: Configured extensions to filter: [.ico]
+[22:59:13.90] Info: **********************************************
+[22:59:13.90] Info: WebRequest [Id: 1] GET 'https://practice.automationtesting.in/'
+[22:59:13.91] Info: **********************************************
+[22:59:13.91] Info: WebRequest [Id: 2] POST 'https://practice.automationtesting.in/'
+[22:59:13.91] Info: **********************************************
+[22:59:13.91] Info: WebRequest [Id: 3] GET 'https://practice.automationtesting.in/my-account/'
+[22:59:13.92] Info: **********************************************
+[22:59:13.92] Info: WebRequest [Id: 4] POST 'https://practice.automationtesting.in/my-account/'
+[22:59:13.93] Info: **********************************************
+[22:59:13.93] Info: WebRequest [Id: 5] GET 'https://practice.automationtesting.in/shop/'
+[22:59:13.93] Info: **********************************************
+[22:59:13.93] Info: WebRequest [Id: 6] GET 'https://practice.automationtesting.in/product/android-quick-start-guide/'
+[22:59:13.94] Info: **********************************************
+[22:59:13.94] Info: WebRequest [Id: 7] GET 'https://practice.automationtesting.in/my-account/'
+[22:59:13.95] Info: **********************************************
+[22:59:13.95] Info: WebRequest [Id: 8] GET 'https://practice.automationtesting.in/my-account/customer-logout/'
+[22:59:13.95] Info: Created 8 steps.
+[22:59:13.96] Info: scenario.yml already exists at 'C:\Users\wmachrao\OneDrive - Capgemini\Documents\PerfTry' and will not be updated.
+[22:59:13.96] Info: rts.yml already exists at 'C:\Users\wmachrao\OneDrive - Capgemini\Documents\PerfTry\rts.yml' and will not be updated.
+[22:59:13.96] Info: DevWeb script generated in folder 'C:\Users\wmachrao\OneDrive - Capgemini\Documents\PerfTry'.
+[22:59:13.99] Info: Save input file as C:\Users\wmachrao\OneDrive - Capgemini\Documents\PerfTry\codegen\codegen.har
